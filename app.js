@@ -1,1 +1,1 @@
-console.log('vse huynya');
+console.log('vse horosho');
